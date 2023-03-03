@@ -1,3 +1,4 @@
+package ibf.ssf.assessment.ssf_assessment_shoppingcart.models;
 // TODO: Add your package here
 
 // DO NOT MODIFY THIS FILE
